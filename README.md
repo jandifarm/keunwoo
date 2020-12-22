@@ -25,3 +25,4 @@
   (https://github.com/souvenir718/Cloud-Study)
 - mydata 발표 준비 (화) 
 - mydata 장표 뒷부분 추가
+- mydata 관련 실증 사례들 연구
