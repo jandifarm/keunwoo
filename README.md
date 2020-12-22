@@ -1,5 +1,5 @@
 # keunwoo
-keunwoo's jandi farm
+근우의 잔디 농장
 
 
 # 주간 목표
