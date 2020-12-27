@@ -28,4 +28,6 @@
 - mydata 관련 실증 사례들 연구
 
 - 도커파일 실습
-- 강의 
+
+생성자 주입을 받는 
+https://madplay.github.io/post/why-constructor-injection-is-better-than-field-injection
