@@ -18,4 +18,4 @@
 
 - 마이데이터 자료정리
 - Devops 공부
-- Spring Boot 프로젝트
+- 인프런 Spring Boot 프로젝트
