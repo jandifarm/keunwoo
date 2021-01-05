@@ -17,5 +17,6 @@
 > 휴식:  2 토요일
 
 - 마이데이터 자료정리
-- Devops 공부
-- Spring Boot 프로젝트
+- 인프런 Devops 인강 공부
+- 인프런 Spring Boot 프로젝트  (백기선)
+- 도커 마스터
